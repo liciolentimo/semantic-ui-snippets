@@ -9,15 +9,12 @@ This extension will solve the issue for you with a simple `!semh` + `TAB` and yo
 
 Semantic allows developers to build beautiful websites fast, with concise HTML, intuitive javascript, and simplified debugging, helping make front-end development a delightful experience. Semantic is responsively designed allowing your website to scale on multiple devices. Semantic is production ready and partnered with frameworks such as React, Angular, Meteor, and Ember, which means you can integrate it with any of these frameworks to organize your UI layer alongside your application logic.
 
-## Requirements
-
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
-
-.
-
 ## Release Notes
 
 Starter template for Semantic-UI snippet for the <head> tag
+
+### 1.0.1
+Fixes issue with closing script tags
 
 ### 1.0.0
 
