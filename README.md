@@ -1,6 +1,9 @@
-# semantic-ui-snippets README
+# semantic-ui-snippets 
 
-This extension will solve the issue for you with a simple !semhead + TAB and your up and running with a full template.
+This extension will solve the issue for you with a simple `!semhead` + `TAB` and your up and running with a full template.
+
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/liciolentimo/semantic-ui-snippets)
+
 
 ## Features
 
