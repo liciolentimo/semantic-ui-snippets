@@ -1,6 +1,6 @@
 {
     "Semantic-UI starter template": {
-        "prefix": "!semhead",
+        "prefix": "!semh",
         "body": [
             "<!DOCTYPE html>",
             "<html lang=\"en\">",
