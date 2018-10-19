@@ -2,9 +2,7 @@
 
 This extension will solve the issue for you with a simple `!semhead` + `TAB` and your up and running with a full template.
 
-[![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/v/Licio.semantic-ui-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=Licio.semantic-ui-snippets)
-
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/liciolentimo/semantic-ui-snippets)
+[![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/v/Licio.semantic-ui-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=Licio.semantic-ui-snippets) [![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/d/Licio.semantic-ui-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=Licio.semantic-ui-snippets) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/liciolentimo/semantic-ui-snippets)
 
 
 ## Features
