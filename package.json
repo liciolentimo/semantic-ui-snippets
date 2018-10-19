@@ -2,13 +2,13 @@
     "name": "semantic-ui-snippets",
     "displayName": "semantic-ui snippets",
     "description": "Semantic-UI snippet generator",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "Licio",
     "repository": {
-        "type":"git",
-        "url":"https://github.com/liciolentimo/semantic-ui-snippets"
+        "type": "git",
+        "url": "https://github.com/liciolentimo/semantic-ui-snippets"
     },
-    "icon":"icon.png",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.28.0"
     },
