@@ -1,0 +1,34 @@
+{
+    "name": "semantic-ui-snippets",
+    "displayName": "semantic-ui snippets",
+    "description": "Semantic-UI snippet generator",
+    "version": "1.0.0",
+    "publisher": "Licio",
+    "repository": {
+        "type":"git",
+        "url":"https://github.com/liciolentimo/semantic-ui-snippets"
+    },
+    "icon":"icon.png",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
