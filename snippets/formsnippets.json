@@ -1,0 +1,21 @@
+{
+    "FormGroup": {
+        "prefix": "!semfg",
+        "body": [
+            "<div class=\"ui form\">",
+            "$0",
+            "</div>"
+        ],
+        "description": "Semantic-UI Form Group parent element"
+    },
+    "FormControl": {
+        "prefix": "!semfc",
+        "body": [
+            "<div class=\"field\">",
+            "<label for=\"${1: labelFor}\">${2:labelText}</label>",
+            "<input type=\"${3: inputType}\" id=\"${1: labelFor}\" class=\"ui form\">",
+            "</div>"
+        ],
+        "description": "Semantic-UI Form Control"
+    }
+}

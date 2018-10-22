@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "semantic-ui-snippets" extension will be documented in this file.
 
+## [1.1.1]
+- Added form snippets for form group and form control
+
 ## [1.0.1]
 - Fixed closing script tags
 
