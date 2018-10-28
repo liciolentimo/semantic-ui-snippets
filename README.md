@@ -13,6 +13,9 @@ Semantic allows developers to build beautiful websites fast, with concise HTML, 
 
 Starter template for Semantic-UI snippet for the <head> tag
 
+### 1.0.3
+Added form control snippets
+
 ### 1.0.1
 Fixes issue with closing script tags
 
@@ -21,9 +24,5 @@ Fixes issue with closing script tags
 Initial release of Semantic-UI <head> tag snippets
 
 
-### For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
