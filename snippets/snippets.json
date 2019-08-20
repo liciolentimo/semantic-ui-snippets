@@ -38,5 +38,100 @@
             "</div>"
         ],
         "description": "Semantic-UI Form Control"
+    },
+    "std-button": {
+        "prefix": "std-button",
+        "body": [
+            "<button class=\"ui button\" aria-label=\"${1:label}\">",
+            "  ${1:label}",
+            "</button>"
+        ]
+    },
+    "std-button-tooltip": {
+        "prefix": "ui-button-tooltip",
+        "body": [
+            "<button class=\"ui button\" data-tooltip=\"${1:content}\" aria-label=\"${2:label}\">",
+            "  ${2:label}",
+            "</button>"
+        ]
+    },
+    "std-button-disabled-tooltip": {
+        "prefix": "ui-button-disabled-tooltip",
+        "body": [
+            "<span data-tooltip=\"${1:tooltip-content}\">",
+            "  <button class=\"ui button disabled\" aria-label=\"${2:button-label}\">",
+            "    ${2:button-label}",
+            "  </button>",
+            "</span>"
+        ]
+    },
+    "ui-button-deny": {
+        "prefix": "ui-button-deny",
+        "body": [
+            "<div class=\"ui black deny button\">",
+            "  ${1:label}",
+            "</div>"
+        ],
+        "description": "ui-button-deny"
+    },
+    "ui-button-approve": {
+        "prefix": "ui-button-approve",
+        "body": [
+            "<div class=\"ui green approve right button\">",
+            "  ${1:label}",
+            "</div>"
+        ],
+        "description": "ui-button-approve"
+    },
+    "ui-segment": {
+        "prefix": "ui-segment",
+        "body": [
+            "<div class=\"ui segment\">",
+            "  ${1:contents}",
+            "</div>"
+        ],
+        "description": "ui-segment"
+    },
+    "ui-form": {
+        "prefix": "ui-form",
+        "body": [
+            "<form class=\"ui form\" method=\"post\">",
+            "  ${1:contents}",
+            "</form>"
+        ],
+        "description": "ui-form"
+    },
+    "ui-header": {
+        "prefix": "ui-header",
+        "body": [
+            "<div class=\"ui header\">${1:name}</div>"
+        ],
+        "description": "ui-header"
+    },
+    "ui-clearing": {
+        "prefix": "ui-clearing",
+        "body": [
+            "<div class=\"ui clearing divider\"></div>"
+        ],
+        "description": "ui-clearing divider"
+    },
+    "ui-modal": {
+        "prefix": "ui-modal",
+        "body": [
+            "<div class=\"ui modal\">",
+            "  <div class=\"header\">",
+            "    ${1:header}",
+            "  </div>",
+            "  <div class=\"content\">",
+            "    <div class=\"description\">",
+            "      ${2:content}",
+            "    </div>",
+            "  </div>",
+            "  <div class=\"actions\">",
+            "    ${3:actions}",
+            "  </div>",
+            "</div>"
+        ],
+        "description": "ui-modal"
     }
 }
