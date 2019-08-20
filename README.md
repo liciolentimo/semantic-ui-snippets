@@ -31,15 +31,6 @@ Starter template for Semantic-UI snippets.
 ### 2.0.0
 Added buttons and divider elements.
 
-### 1.0.3
-Added form control snippets
-
-### 1.0.1
-Fixes issue with closing script tags
-
-### 1.0.0
-
-Initial release of Semantic-UI <head> tag snippets
 
 
 
