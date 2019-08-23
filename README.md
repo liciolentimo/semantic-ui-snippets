@@ -18,6 +18,7 @@ Semantic allows developers to build beautiful websites fast, with concise HTML, 
 |`ui-button-deny` | `div` with class `ui black deny button`|
 |`ui-button-approve` | `div` with class `ui green approve right button`|
 | **Elements** | |
+`semh` |  Starter snippet with `head` tags |
 |`ui-segment` | `div` with class `ui segment`|
 |`ui-form` | `form` with class `ui form` and method `post`|
 |`ui-header` | `div` with class `ui header`|
