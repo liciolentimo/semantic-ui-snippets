@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "semantic-ui-snippets" extension will be documented in this file.
 
+## [2.0.0]
+- Added more snippets for buttons and ui elements
+
 ## [1.0.3]
 - Added form snippets for form group and form control
 
