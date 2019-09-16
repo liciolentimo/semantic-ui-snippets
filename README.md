@@ -17,6 +17,8 @@ Semantic allows developers to build beautiful websites fast, with concise HTML, 
 |`std-button-disabled-tooltip` | `button` with class `disabled` and tooltip on a surrounding `span`|
 |`ui-button-deny` | `div` with class `ui black deny button`|
 |`ui-button-approve` | `div` with class `ui green approve right button`|
+|`ui-button` | `button` with class `ui primary button`|
+|`ui-icon` | `button` with class `ui icon button`|
 | **Elements** | |
 `semh` |  Starter snippet with `head` tags |
 |`ui-segment` | `div` with class `ui segment`|
@@ -24,13 +26,14 @@ Semantic allows developers to build beautiful websites fast, with concise HTML, 
 |`ui-header` | `div` with class `ui header`|
 |`ui-clearing` | `div` with class `ui clearing divider`|
 |`ui-modal` | `div` with class `ui modal`|
+|`ui-card` | `div` with class `ui card`|
 
 ## Release Notes
 
 Starter template for Semantic-UI snippets.
 
-### 2.0.0
-Added buttons and divider elements.
+### 2.0.1
+Added some buttons and card elements.
 
 
 

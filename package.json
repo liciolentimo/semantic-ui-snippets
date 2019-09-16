@@ -2,7 +2,7 @@
     "name": "semantic-ui-snippets",
     "displayName": "semantic-ui snippets",
     "description": "Semantic-UI snippet generator",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "publisher": "Licio",
     "repository": {
         "type": "git",
