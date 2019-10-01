@@ -4,6 +4,7 @@ This extension provides snippets for popular Semantic-UI elements.
 
 [![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/v/Licio.semantic-ui-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=Licio.semantic-ui-snippets) [![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/d/Licio.semantic-ui-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=Licio.semantic-ui-snippets) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/liciolentimo/semantic-ui-snippets)
 [![Build Status](https://liciolentimo.visualstudio.com/semantic-ui%20snippets/_apis/build/status/liciolentimo.semantic-ui-snippets?branchName=master)](https://liciolentimo.visualstudio.com/semantic-ui%20snippets/_build/latest?definitionId=1&branchName=master)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 ## Features
@@ -13,7 +14,9 @@ This extension provides snippets for popular Semantic-UI elements.
 ## Installation
 
 To install just execute the following command:
-`ext install Licio.semantic-ui-snippets`
+```sh
+ext install Licio.semantic-ui-snippets
+```
 
 
 | **Shortcut Prefix** | **Description** |
