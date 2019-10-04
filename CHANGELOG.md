@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "semantic-ui-snippets" extension will be documented in this file.
 
+## [2.0.2]
+- Added multiple select of countries.
+
 ## [2.0.1]
 - Added some buttons and card elements.
 

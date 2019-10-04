@@ -37,13 +37,15 @@ ext install Licio.semantic-ui-snippets
 |`ui-clearing` | `div` with class `ui clearing divider`|
 |`ui-modal` | `div` with class `ui modal`|
 |`ui-card` | `div` with class `ui card`|
+| **Forms** | |
+|`mult-countries` | multiple select of countries include several choices with one form field|
 
 ## Release Notes
 
 Starter template for Semantic-UI snippets.
 
-### 2.0.1
-Added some buttons and card elements.
+### 2.0.2
+Added multiple select of countries
 
 
 
