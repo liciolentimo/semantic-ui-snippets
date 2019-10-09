@@ -34,12 +34,12 @@ ext install Licio.semantic-ui-snippets
 | **Elements** | |
 `semh` |  Starter snippet with `head` tags |
 |`ui-segment` | `div` with class `ui segment`|
-|`ui-form` | `form` with class `ui form` and method `post`|
 |`ui-header` | `div` with class `ui header`|
 |`ui-clearing` | `div` with class `ui clearing divider`|
 |`ui-modal` | `div` with class `ui modal`|
 |`ui-card` | `div` with class `ui card`|
 | **Forms** | |
+|`ui-form` | `form` with class `ui form` and method `post`|
 |`mult-countries` | multiple select of countries include several choices with one form field|
 
 ## Release Notes
