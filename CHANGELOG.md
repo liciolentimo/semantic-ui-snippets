@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "semantic-ui-snippets" extension will be documented in this file.
 
+## [2.1.3]
+- Added social buttons.
+
 ## [2.0.3]
 - Added form elements: billing and radio buttons.
 

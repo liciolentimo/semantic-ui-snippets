@@ -31,6 +31,12 @@ ext install Licio.semantic-ui-snippets
 |`ui-button-approve` | `div` with class `ui green approve right button`|
 |`ui-button` | `button` with class `ui primary button`|
 |`ui-icon` | `button` with class `ui icon button`|
+|`btn-facebook` | Facebook button|
+|`btn-twitter` | Twitter button|
+|`btn-vk` | VK button|
+|`btn-linkedin` | LinkedIn button|
+|`btn-youtube` | Youtube button|
+|`btn-instagram` | Instagram button|
 | **Elements** | |
 `semh` |  Starter snippet with `head` tags |
 |`ui-segment` | `div` with class `ui segment`|
@@ -48,8 +54,8 @@ ext install Licio.semantic-ui-snippets
 
 Starter template for Semantic-UI snippets.
 
-### 2.0.3
-Added form elements: billing and radio buttons.
+### 2.1.3
+Added social buttons.
 
 
 

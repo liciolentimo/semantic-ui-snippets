@@ -166,6 +166,67 @@
         ],
         "description":"standard button"
     },
+    "facebook button":{
+      "prefix":"btn-facebook",
+      "body": [
+        "<button class=\"ui facebook button\">",
+  "<i class=\"facebook icon\"></i>",
+  "Facebook",
+"</button>"
+      ],
+      "description":"facebook button"
+    },
+    "twitter button":{
+      "prefix":"btn-twitter",
+      "body":[
+        "<button class=\"ui twitter button\">",
+        "<i class=\"twitter icon\"></i>",
+        "Twitter",
+      "</button>"
+      ],
+      "description":"twitter button"
+    },
+    "vk button":{
+      "prefix": "btn-vk",
+      "body":[
+        "<button class=\"ui vk button\">",
+  "<i class=\"vk icon\"></i>",
+  "VK",
+"</button>"
+      ],
+      "description": "vk button"
+    },
+    "linkedin button": {
+      "prefix":"btn-linkedin",
+      "body":[
+        "<button class=\"ui linkedin button\">",
+  "<i class=\"linkedin icon\"></i>",
+ "LinkedIn",
+"</button>"
+      ],
+      "description": "linkedin button"
+    },
+    "instagram button":{
+      "prefix":"btn-instagram",
+      "body":[
+        "<button class=\"ui instagram button\">",
+  "<i class=\"instagram icon\"></i>",
+  "Instagram",
+"</button>"
+      ],
+      "description":"instagram button"
+    },
+    "youtube button":{
+      "prefix":"btn-youtube",
+      "body":[
+        "<button class=\"ui youtube button\">",
+  "<i class=\"youtube icon\"></i>",
+  "YouTube",
+"</button>"
+      ],
+      "description":"youtube button"
+    },
+    
     "billing information":{
         "prefix":"billing",
         "body":[
