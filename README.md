@@ -49,13 +49,18 @@ ext install Licio.semantic-ui-snippets
 |`mult-countries` | multiple select of countries include several choices with one form field|
 |`billing` | `form` with class `ui form` to show billing info|
 |`grouped-radio` | `form` with class `ui form` to display radio buttons|
+| **Input** | |
+|`search-icon` | `div` with `input` and search icon|
+|`users-icon` | `div` with `input` and users icon|
+|`checkout-box` | `div` with `input` and cart icon|
+|`copy-icon` | `div` with `input` and copy icon|
 
 ## Release Notes
 
 Starter template for Semantic-UI snippets.
 
-### 2.1.3
-Added social buttons.
+### 2.1.4
+Added input fields with icons.
 
 
 

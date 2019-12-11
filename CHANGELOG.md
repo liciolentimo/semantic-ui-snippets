@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "semantic-ui-snippets" extension will be documented in this file.
 
+## [2.1.4]
+- Added input fields with icons.
+
 ## [2.1.3]
 - Added social buttons.
 

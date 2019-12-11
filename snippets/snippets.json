@@ -332,6 +332,52 @@
         ],
         "description":"ui icon button"
     },
+    "search icon": {
+      "prefix":"search-icon",
+      "body":[
+       " <div class=\"ui icon input\">",
+ " <input type=\"text\" placeholder=\"Search...\">",
+  "<i class=\"search icon\"></i>",
+"</div>"
+      ],
+      "description": "search icon"
+    },
+    "users icon":{
+      "prefix":"users-icon",
+      "body":[
+        "<div class=\"ui left icon input\">",
+  "<input type=\"text\" placeholder=\"Search users...\">",
+  "<i class=\"users icon\"></i>",
+"</div>"
+      ],
+      "description":"search users icon"
+    },
+    "checkout":{
+      "prefix":"checkout-box",
+      "body":[
+        "<div class=\"ui left action input\">",
+ " <button class=\"ui teal labeled icon button\">",
+    "<i class=\"cart icon\"></i>",
+   " Checkout",
+  "</button>",
+ " <input type=\"text\" value=\"\">",
+"</div>"
+      ],
+      "description":"checkout box with cart icon"
+    },
+    "copy icon":{
+      "prefix":"copy-icon",
+      "body":[
+        "<div class=\"ui action input\">",
+  "<input type=\"text\" value=\"\">",
+  "<button class=\"ui teal right labeled icon button\">",
+   " <i class=\"copy icon\"></i>",
+    "Copy",
+  "</button>",
+"</div>"
+      ],
+      "description":"copy textbox with copy icon"
+    },
     "multiple select countries":{
         "prefix":"mult-countries",
         "body":[
